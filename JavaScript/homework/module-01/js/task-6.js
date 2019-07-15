@@ -12,11 +12,3 @@
 // }
 
 // alert(`Общая сумма чисел равна ${total}`);
-
-// function logItem(array) {
-//     for (const element of array) {
-//         console.log(element);
-//         console.log(array.indexOf(element));
-//         console.log('${array.indexOf(element) + 1} ${element}');
-//     }
-// }
