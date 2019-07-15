@@ -2,7 +2,7 @@
 // let total = 0;
 // let message;
 
-// while (input = prompt('Отдай мне все!')) {
+// while (input = prompt('Введите число!')) {
 //  if (isNaN(input)) {
 //    alert('Вы ошиблись введите число');
 //  } else {
