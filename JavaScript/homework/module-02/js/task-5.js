@@ -1,13 +1,9 @@
 const formatString = function(string) {
-    const words = string.split(' ');
-
-    for (const word of words) {
       if(string.length <= 40) {
         return string;
         } else if (string.length > 40)  {
             return  string.slice(0, 40) + "...";
         }
-    };   
 }
 
 console.log(formatString('Curabitur ligula sapien, tincidunt non.'));
