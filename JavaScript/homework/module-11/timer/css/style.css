@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background:  #789;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: #fff;
+ }
+
+ .timer {
+     margin: 0 auto;
+     margin-top: 100px;
+     display: flex;
+     width: 350px;
+     color: #fff;
+     text-transform: uppercase;
+ }
+
+ .field {
+     margin-right: 20px;
+ }
+
+ .field:nth-last-child(-n + 1) {
+     margin-right: 0;
+ }
